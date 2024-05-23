@@ -24,7 +24,7 @@ decir el día siguiente no más tarde de las 09:00).
     - Esto implica que nadie está obligado a realizar esta tarea final. Se ruega que, si no se
       va a hacer un trabajo de enjundia, no se haga.
   - El peso máximo de la tarea en la evaluación será del 40%. Se alcanzará este peso en el caso
-    de haberse realizado un trabajo realmente interesante en el que se haya tenido que abordar
+    de haberse realizado un trabajo realmente interesante, en el que se haya tenido que abordar
     problemas de programación complejos, y que éstos hayan sido resueltos de manera satisfactoria.
 - Deberá construirse un repositorio GitHub con el trabajo realizado.
   - Se valorará la parte de *márketing* del repositorio:
