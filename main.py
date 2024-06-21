@@ -17,7 +17,7 @@ class App(customtkinter.CTk):
     def __init__(self):
         super().__init__()
 
-        self.title("DelePrestecs Alpha 0.7")
+        self.title("DelePrestecs Release v1.0")
         self.iconbitmap('img/dele.ico')
         self.geometry("700x450")
         self.resizable(False, False) # Width, Height
